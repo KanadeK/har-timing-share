@@ -1,0 +1,4 @@
+include README.zh-CN.md SECURITY.md CONTRIBUTING.md CHANGELOG.md DESIGN.md
+recursive-include examples *.har
+recursive-include tests *.py
+recursive-include tools *.py
